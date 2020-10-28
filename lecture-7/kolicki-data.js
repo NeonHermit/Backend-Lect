@@ -11,4 +11,4 @@ for(let i = 0; i < 15; i++) {
     })
 }
 
-module.exports = cars
+module.exports = car
